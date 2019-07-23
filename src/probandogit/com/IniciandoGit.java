@@ -6,7 +6,7 @@ public class IniciandoGit {
 	}
 	
 	public static String getNombre() {
-		return "Manuel";
+		return "miguel";
 	}
 	
 	public static String getApellido() {
