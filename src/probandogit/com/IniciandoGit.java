@@ -8,4 +8,8 @@ public class IniciandoGit {
 	public static String getNombre() {
 		return "Manuel";
 	}
+	
+	public static String getApellido() {
+		return "Pineda";
+	}
 }
